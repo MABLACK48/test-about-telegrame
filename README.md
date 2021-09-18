@@ -743,3 +743,4 @@ Data PrepareData(const QString &dataPath, const std::vector<QString> &oldDataPat
 
 } // namespace emoji
 } // namespace codegen
+	created by vitou{if you wanna get me to help something pls cmt} this is code of telegrame emoji}
